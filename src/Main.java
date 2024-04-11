@@ -17,7 +17,7 @@ public class Main {
         opening4();
         opening5();
         opening6();
-        for (int i = 0; i < 15; i++){
+        for (int i = 0; i < 10; i++){
             input();
             checkshark();
             if (sharktrue == true) sadending();
